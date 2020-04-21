@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ec4a79-185c-4ab8-acf0-f399ed12007c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/shop/shop.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/shop/shop.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/crown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
@@ -52,6 +49,7 @@
       <recent name="$PROJECT_DIR$/src/components/shop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/pages/homepage" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -66,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587240885963</updated>
-      <workItem from="1587240887939" duration="9220000" />
+      <workItem from="1587240887939" duration="10363000" />
     </task>
     <servers />
   </component>
@@ -78,9 +76,9 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2313" y="339" key="EditFileWatcherDialog/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587241803927" />
-    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1587376277639">
+    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1587470159970">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587376277639" />
+    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587470159970" />
   </component>
 </project>
