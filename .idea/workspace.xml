@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ec4a79-185c-4ab8-acf0-f399ed12007c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/shopping-bag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.utils.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/shop/shop.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shop/shop.data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <updated>1587240885963</updated>
       <workItem from="1587240887939" duration="21789000" />
       <workItem from="1587727398363" duration="333000" />
-      <workItem from="1587727750810" duration="6647000" />
+      <workItem from="1587727750810" duration="9633000" />
     </task>
     <servers />
   </component>
@@ -84,14 +85,14 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2313" y="339" key="EditFileWatcherDialog/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587241803927" />
-    <state x="1862" y="51" width="595" height="472" key="find.popup" timestamp="1587632972929">
+    <state x="1862" y="51" width="595" height="504" key="find.popup" timestamp="1587974955866">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state x="1862" y="51" width="595" height="472" key="find.popup/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587632972929" />
-    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1587806474166">
+    <state x="1862" y="51" width="595" height="504" key="find.popup/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587974955866" />
+    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1587975391413">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2305" y="249" width="670" height="650" key="search.everywhere.popup/0.23.1680.1027/1680.23.1920.1016/3600.23.1920.1057@1680.23.1920.1016" timestamp="1587502329833" />
-    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587806474166" />
+    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587975391413" />
   </component>
 </project>
