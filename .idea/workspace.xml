@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ec4a79-185c-4ab8-acf0-f399ed12007c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/collections-overview/collections-overview.components.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/collections-overview/collections-overview.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/collection/collection.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/collection/collection.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/directory/directory.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/directory/directory.selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/shop/shop.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/shop/shop.selectors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shop/shop.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/shop/shop.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shop/shop.data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +56,11 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/shop" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -68,7 +85,8 @@
       <updated>1587240885963</updated>
       <workItem from="1587240887939" duration="21789000" />
       <workItem from="1587727398363" duration="333000" />
-      <workItem from="1587727750810" duration="19635000" />
+      <workItem from="1587727750810" duration="21215000" />
+      <workItem from="1589193283426" duration="9529000" />
     </task>
     <servers />
   </component>
@@ -80,14 +98,18 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2313" y="339" key="EditFileWatcherDialog/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587241803927" />
+    <state x="2156" y="170" key="SettingsEditor" timestamp="1589479773394">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2156" y="170" key="SettingsEditor/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1589479773394" />
     <state x="1862" y="51" width="595" height="504" key="find.popup" timestamp="1587974955866">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="1862" y="51" width="595" height="504" key="find.popup/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1587974955866" />
-    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1588064819520">
+    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1590230642358">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2305" y="249" width="670" height="650" key="search.everywhere.popup/0.23.1680.1027/1680.23.1920.1016/3600.23.1920.1057@1680.23.1920.1016" timestamp="1587502329833" />
-    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1588064819520" />
+    <state x="2305" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1680.986/1680.23.1920.1057/3600.23.1920.1057@1680.23.1920.1057" timestamp="1590230642358" />
   </component>
 </project>
